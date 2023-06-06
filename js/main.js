@@ -1,6 +1,6 @@
 //variables
 const theButtons = document.querySelectorAll("#buttonHolder img"),
-puzzleBoard = document.querySelector(".puzzle-board");
+    puzzleBoard = document.querySelector(".puzzle-board");
 //console.log(theButtons);
 //console.log(puzzleBoard);
 
